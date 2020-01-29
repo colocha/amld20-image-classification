@@ -9,3 +9,4 @@ scipy
 seaborn
 tensorflow-hub
 tqdm>=4.38
+tensorflow
